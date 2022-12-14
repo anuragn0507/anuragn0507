@@ -10,17 +10,13 @@
 <h3 align="center">A passionate android developer from India</h3>
 
 
-- 👨‍💻 See My Project [Portfolio](https://anurag-portfolio-0507.vercel.app/)
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
+
+- 👨‍💻 See My Projects [Portfolio](https://anurag-portfolio-0507.vercel.app/)
 
 - 🔭 I’m currently working on [Social Networking site](https://github.com/anuragn0507/SocialMedia_gfg1)
 
 - 🌱 I’m currently learning **React-Native**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://anurag-portfolio-0507.vercel.app/)
 
 - 📝 I regularly write articles on [Blogs](https://medium.com/@anuragn1107)
 
