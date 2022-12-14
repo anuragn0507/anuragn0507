@@ -9,23 +9,28 @@
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
+
+- 👨‍💻 See My Project [Portfolio](https://anurag-portfolio-0507.vercel.app/)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
 
 - 🔭 I’m currently working on [Social Networking site](https://github.com/anuragn0507/SocialMedia_gfg1)
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://anurag-portfolio-0507.vercel.app/](https://anurag-portfolio-0507.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anurag-portfolio-0507.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@anuragn1107](https://medium.com/@anuragn1107)
+- 📝 I regularly write articles on [Blogs](https://medium.com/@anuragn1107)
 
 - 💬 Ask me about **Android, React-Native, React.js, Javascript**
 
 - 📫 How to reach me **anuragn1107@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/12LvA9HVA7vpCj_GAMFzJFc2JRw4NYBzb/view?usp=sharing](https://drive.google.com/file/d/12LvA9HVA7vpCj_GAMFzJFc2JRw4NYBzb/view?usp=sharing)
+- 📄 My Experience [Resume](https://drive.google.com/file/d/12LvA9HVA7vpCj_GAMFzJFc2JRw4NYBzb/view?usp=sharing)
 
-- 📄 Appraisal letter **https://drive.google.com/file/d/1z1s-V3z_8rmjF9PavuleHWZU3R_L6MPH/view?usp=sharing**
+- 📄 My Work [Appraisal letter](https://drive.google.com/file/d/1z1s-V3z_8rmjF9PavuleHWZU3R_L6MPH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
