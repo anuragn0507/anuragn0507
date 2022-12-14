@@ -11,6 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
 
+- 🔭 I’m currently working on [Social Networking site](https://github.com/anuragn0507/SocialMedia_gfg1)
+
 - 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://anurag-portfolio-0507.vercel.app/](https://anurag-portfolio-0507.vercel.app/)
@@ -21,7 +23,9 @@
 
 - 📫 How to reach me **anuragn1107@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12LvA9HVA7vpCj_GAMFzJFc2JRw4NYBzb/view?usp=sharing](https://drive.google.com/file/d/12LvA9HVA7vpCj_GAMFzJFc2JRw4NYBzb/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/12LvA9HVA7vpCj_GAMFzJFc2JRw4NYBzb/view?usp=sharing](https://drive.google.com/file/d/12LvA9HVA7vpCj_GAMFzJFc2JRw4NYBzb/view?usp=sharing)
+
+- 📄 Appraisal letter **https://drive.google.com/file/d/1z1s-V3z_8rmjF9PavuleHWZU3R_L6MPH/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragn0507&show_icons=true&locale=en" alt="anuragn0507" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragn0507&" alt="anuragn0507" /></p>
+
 
