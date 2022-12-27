@@ -7,10 +7,22 @@
 
 
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate android developer with a specialization in React-Native from Bhopal, Madhya Pradesh (India).</h3>
+
+## 🙋‍♂️ About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
+
+🌱 **I’m currently learning :** React-Native Development
+
+🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
+
+💬 **Ask me about :**  **Java, Kotlin, JavaScript, React, React-Native, Android, Data Structures and Algorithms.**
+
+🥅 **2022 Goals :** Learning new things and contribute more
+
+<!-- 📫 You can reach me at [chat](mailto:absilawat@gmail.com)! -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
+
 
 - 👨‍💻 See My Projects [Portfolio](https://anurag-portfolio-0507.vercel.app/)
 
