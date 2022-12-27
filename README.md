@@ -7,7 +7,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center">A passionate android developer with a specialization in React-Native from Bhopal, Madhya Pradesh (India).</h3>
+<h3 align="center">A passionate android developer from Bhopal, Madhya Pradesh (India).</h3>
+
+#### Software professional having 2yrs of experience in software developement with expertise in Android Development, Java, JavaScript, React, React-Native, kotlin and experienced in solving more than 400+ Dsa problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills.
 
 ## 🙋‍♂️ About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragn0507&label=Profile%20views&color=0e75b6&style=flat" alt="anuragn0507" /> </p>
 
